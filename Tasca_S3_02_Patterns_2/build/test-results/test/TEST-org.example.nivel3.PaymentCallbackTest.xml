@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.nivel3.PaymentCallbackTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-10-06T14:49:57.236Z" hostname="CARLOSPC" time="0.033">
-  <properties/>
-  <testcase name="whenPayWithBankDebit_thenCallbackIsExecuted()" classname="org.example.nivel3.PaymentCallbackTest" time="0.024"/>
-  <testcase name="whenPayWithCreditCard_thenCallbackIsExecuted()" classname="org.example.nivel3.PaymentCallbackTest" time="0.002"/>
-  <testcase name="whenPayWithPaypal_thenCallbackIsExecuted()" classname="org.example.nivel3.PaymentCallbackTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
