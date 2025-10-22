@@ -1,4 +1,6 @@
 package org.example.nivel2.interfaces;
 
-public class StockObserver {
+
+public interface StockObserver {
+    void update(String marketStatus);
 }

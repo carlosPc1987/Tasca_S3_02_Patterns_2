@@ -1,4 +1,5 @@
 package org.example.nivel3.interfaces;
 
-public class PaymentMethod {
+public interface PaymentMethod {
+    String pay();
 }
